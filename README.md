@@ -1,4 +1,4 @@
-###👋 Hello! I'm Ngan Nguyen
+### 👋 Hello! I'm Ngan Nguyen
 ---
 ### About me:
 I'm a final-year IT student with a strong interest in software testing.  
